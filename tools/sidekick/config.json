@@ -1,7 +1,7 @@
 {
   "project": "Sid's Boilerplate",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
+  "editUrlPattern": "https://da.live/edit#/sid-bytes/sid-aem{{pathname}}",
   "plugins": [
     {
       "id": "cif",
